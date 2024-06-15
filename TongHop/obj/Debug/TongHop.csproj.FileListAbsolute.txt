@@ -1,0 +1,12 @@
+D:\Lap trinh mang\Lab6_LTM\TongHop\TongHop\TongHop\bin\Debug\TongHop.exe.config
+D:\Lap trinh mang\Lab6_LTM\TongHop\TongHop\TongHop\bin\Debug\TongHop.exe
+D:\Lap trinh mang\Lab6_LTM\TongHop\TongHop\TongHop\bin\Debug\TongHop.pdb
+D:\Lap trinh mang\Lab6_LTM\TongHop\TongHop\TongHop\obj\Debug\TongHop.csproj.AssemblyReference.cache
+D:\Lap trinh mang\Lab6_LTM\TongHop\TongHop\TongHop\obj\Debug\TongHop.Form1.resources
+D:\Lap trinh mang\Lab6_LTM\TongHop\TongHop\TongHop\obj\Debug\TongHop.Form2.resources
+D:\Lap trinh mang\Lab6_LTM\TongHop\TongHop\TongHop\obj\Debug\TongHop.Form3.resources
+D:\Lap trinh mang\Lab6_LTM\TongHop\TongHop\TongHop\obj\Debug\TongHop.Properties.Resources.resources
+D:\Lap trinh mang\Lab6_LTM\TongHop\TongHop\TongHop\obj\Debug\TongHop.csproj.GenerateResource.cache
+D:\Lap trinh mang\Lab6_LTM\TongHop\TongHop\TongHop\obj\Debug\TongHop.csproj.CoreCompileInputs.cache
+D:\Lap trinh mang\Lab6_LTM\TongHop\TongHop\TongHop\obj\Debug\TongHop.exe
+D:\Lap trinh mang\Lab6_LTM\TongHop\TongHop\TongHop\obj\Debug\TongHop.pdb
